@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="7" viewBox="0 0 12 7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="chevron" class="cls-1" d="M1513,85.166l-4.8,4.667h0L1507,91l-6-5.833L1502.2,84l4.8,4.666L1511.8,84Z" transform="translate(-1501 -84)"/>
+</svg>
